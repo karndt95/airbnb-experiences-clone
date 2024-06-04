@@ -1,9 +1,10 @@
 import './navbar.css';
+import logo from './airbnb-logo.png';
 
 export default function Navbar() {
   return (
     <nav>
-      <h1>Hello</h1>
+      <img className='logo' src={logo} alt='airbnb logo.'/>
     </nav>
   );
 }
