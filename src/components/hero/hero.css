@@ -1,0 +1,13 @@
+.hero {
+  /* display: inline-flex; */
+}
+
+/* .hero > div {
+  display: ;
+} */
+
+.hero--image {
+  width: 73px;
+  height: 97px;
+  margin: 10px;
+}

@@ -1,3 +1,4 @@
+import './hero.css';
 import image1 from './images/image1.png';
 import image2 from './images/image2.png';
 import image3 from './images/image3.png';
@@ -13,6 +14,22 @@ export default function Hero() {
     <div className="hero">
       <div className='hero-slot-one'>
         <img className='hero--image' src={image1} alt='Woman baker holding assorted macaroons'/>
+      </div>
+      <div className='hero-slot-two'>
+        <img className='hero--image' src={image2} alt='Woman baker holding assorted macaroons'/>
+        <img className='hero--image' src={image3} alt='Woman baker holding assorted macaroons'/>
+      </div>
+      <div className='hero-slot-three'>
+        <img className='hero--image' src={image4} alt='Woman baker holding assorted macaroons'/>
+        <img className='hero--image' src={image5} alt='Woman baker holding assorted macaroons'/>
+      </div>
+      <div className='hero-slot-four'>
+        <img className='hero--image' src={image6} alt='Woman baker holding assorted macaroons'/>
+        <img className='hero--image' src={image7} alt='Woman baker holding assorted macaroons'/>
+      </div>
+      <div className='hero-slot-five'>
+        <img className='hero--image' src={image8} alt='Woman baker holding assorted macaroons'/>
+        <img className='hero--image' src={image9} alt='Woman baker holding assorted macaroons'/>
       </div>
     </div>
   )
