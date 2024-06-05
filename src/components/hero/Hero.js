@@ -37,6 +37,8 @@ export default function Hero() {
           <img className='hero--image' src={image9} alt='Woman baker holding assorted macaroons' />
         </div>
       </div>
+      <h1 className='hero-h1'>Online Experiences</h1>
+      <p className='hero-paragraph'>Join unique interactive activities led by one-of-a-kind hosts—all without leaving home.</p>
     </div>
   )
 }
