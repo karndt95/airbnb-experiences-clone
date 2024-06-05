@@ -1,11 +1,11 @@
 .hero-slots {
   display: inline-flex;
-  padding: 3% 25%;
+  padding: 2% 30%;
 }
 
 .hero--image {
-  width: 150px;
-  height: 200px;
+  width: 120px;
+  height: 150px;
   margin: 10px;
   border-radius: 25px;
 }
@@ -24,4 +24,16 @@
 
 .hero-slot-five {
   padding-top: 10%;
+}
+
+.hero-h1, .hero-paragraph {
+  margin-left: 30%;
+}
+
+.hero-h1 {
+  font-size: 45px;
+}
+
+.hero-paragraph {
+  font-size: 22px;
 }
