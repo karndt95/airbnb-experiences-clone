@@ -17,18 +17,22 @@ export default function Hero() {
       </div>
       <div className='hero-slot-two'>
         <img className='hero--image' src={image2} alt='Woman baker holding assorted macaroons'/>
+        <br></br>
         <img className='hero--image' src={image3} alt='Woman baker holding assorted macaroons'/>
       </div>
       <div className='hero-slot-three'>
         <img className='hero--image' src={image4} alt='Woman baker holding assorted macaroons'/>
+        <br></br>
         <img className='hero--image' src={image5} alt='Woman baker holding assorted macaroons'/>
       </div>
       <div className='hero-slot-four'>
         <img className='hero--image' src={image6} alt='Woman baker holding assorted macaroons'/>
+        <br></br>
         <img className='hero--image' src={image7} alt='Woman baker holding assorted macaroons'/>
       </div>
       <div className='hero-slot-five'>
         <img className='hero--image' src={image8} alt='Woman baker holding assorted macaroons'/>
+        <br></br>
         <img className='hero--image' src={image9} alt='Woman baker holding assorted macaroons'/>
       </div>
     </div>
