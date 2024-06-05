@@ -1,5 +1,6 @@
 .hero {
   display: inline-flex;
+  padding: 3% 25%;
 }
 
 .hero--image {
@@ -7,4 +8,20 @@
   height: 200px;
   margin: 10px;
   border-radius: 25px;
+}
+
+.hero-slot-one {
+  padding-top: 20%;
+}
+
+.hero-slot-two {
+  padding-top: 2%;
+}
+
+.hero-slot-three {
+  padding-top: 13%;
+}
+
+.hero-slot-five {
+  padding-top: 10%;
 }
